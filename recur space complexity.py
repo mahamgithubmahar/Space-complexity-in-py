@@ -1,8 +1,6 @@
 def sum(n):
     return n*(n+1)/2 #space complexity is 1
 
-#different functions
-
 def arraysum(a):
     sum=0
     for i in (a):
